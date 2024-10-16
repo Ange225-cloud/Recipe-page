@@ -71,4 +71,10 @@ table td
        
 }
 
+@media screen and (max-width:464px) {
+    body 
+    {
+        margin: 0px;
+    }
+}
 
